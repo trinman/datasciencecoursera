@@ -1,1 +1,2 @@
 # datasciencecoursera
+Setting up Github
